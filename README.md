@@ -1,4 +1,4 @@
-Hello there! I'm Sunil Kartikey 👋
+Hello there!👋
 
 🔭 I started my journey as a core C++ developer and embraced Go five years ago. Since then, Go has been my go-to language. I also had the opportunity to dive into Rust while working with Influxdata, finding its capabilities quite powerful.
 
